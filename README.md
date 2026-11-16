@@ -1,4 +1,4 @@
-# People Directory
+# ReactUserDirectoryExample
 
 A small React app that loads a list of users from the
 [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users) and lets you
